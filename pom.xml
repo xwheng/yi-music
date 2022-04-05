@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.heng</groupId>
     <artifactId>yi-music</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>yi-music</name>
     <description>yi-music</description>
     <properties>
